@@ -11,6 +11,11 @@
   </supportedVersions>
   <packageId>dragonissa.RescueeJoinerPlusLanguageFix</packageId>
   <modDependencies>
+    <li>
+      <packageId>Ogliss.RescueeJoinsPlus</packageId>
+      <displayName>Rescuee Joiner Plus</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2177170403</steamWorkshopUrl>
+    </li>
   </modDependencies>
 	<loadAfter>
 		<li>Ogliss.RescueeJoinsPlus</li>
