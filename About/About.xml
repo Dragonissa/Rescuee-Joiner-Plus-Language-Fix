@@ -1,0 +1,18 @@
+<ModMetaData>
+  <name>Rescuee Joiner Plus Language Fix</name>
+  <author>Dragonissa</author>
+  <description>
+    Fixes the translation
+  </description>
+  <url>https://steamcommunity.com/sharedfiles/filedetails/?id=</url>
+  <supportedVersions>
+    <li>1.6</li> 
+    <li>1.7</li> 
+  </supportedVersions>
+  <packageId>dragonissa.RescueeJoinerPlusLanguageFix</packageId>
+  <modDependencies>
+  </modDependencies>
+	<loadAfter>
+		<li>Ogliss.RescueeJoinsPlus</li>
+	</loadAfter>
+</ModMetaData>
