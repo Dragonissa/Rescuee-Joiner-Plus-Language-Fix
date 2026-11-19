@@ -3,5 +3,5 @@
 Fixes the translation
 
 <p align="center">
-  <img src="About/preview.png" width="800">
+  <img src="About/Preview.png" width="800">
 </p>
